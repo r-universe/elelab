@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MoonlightR"]
-	path = MoonlightR
-	url = https://github.com/elelab/moonlightr
-	shallow = true
-	registered = true
